@@ -1,2 +1,2 @@
 # python-assignments
-All about programming assignments in Python
+This repo is a collection of programming assignments in Python
