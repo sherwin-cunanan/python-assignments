@@ -7,3 +7,4 @@ This repo is a collection of programming assignments in Python
 3. Geometric Figures (Hollow Square, Right Triangles)
 4. Divisible By
 5. Simple Menu
+6. Dynamic Divisible By
